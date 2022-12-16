@@ -1,1 +1,1 @@
-# javaScript-lista1
+# Exercicios-Logica
